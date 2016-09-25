@@ -1,0 +1,11 @@
+/*
+** test.c for  in /home/sacko_a/C/Jour02/sacko_a
+** 
+** Made by SACKO Adama
+** Login   <sacko_a@etna-alternance.net>
+** 
+** Started on  Tue Oct 21 09:36:57 2014 SACKO Adama
+** Last update Tue Oct 21 09:55:00 2014 SACKO Adama
+*/
+
+
